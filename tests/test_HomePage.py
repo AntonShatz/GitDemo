@@ -24,7 +24,7 @@ class TestHomePage(BaseClass):
         message = homepage.driver.find_element_by_xpath("/html/body/app-root/form-comp/div/form/div[1]/label").text
         print(message)
         assert "Name" in message
-        print("This is Updated Line")
+        print("A new update 2.0")
         self.driver.refresh()
 
 
