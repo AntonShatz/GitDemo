@@ -1,0 +1,114 @@
+2022-04-20 16:58:02,213 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 16:58:02,245 :INFO :test_e2e :iphone X
+2022-04-20 16:58:02,263 :INFO :test_e2e :Samsung Note 8
+2022-04-20 16:58:02,282 :INFO :test_e2e :Nokia Edge
+2022-04-20 16:58:02,302 :INFO :test_e2e :Blackberry
+2022-04-20 16:58:07,807 :INFO :test_e2e :Text recived was matching
+2022-04-20 17:02:19,884 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 17:02:19,916 :INFO :test_e2e :iphone X
+2022-04-20 17:02:19,935 :INFO :test_e2e :Samsung Note 8
+2022-04-20 17:02:19,954 :INFO :test_e2e :Nokia Edge
+2022-04-20 17:02:19,973 :INFO :test_e2e :Blackberry
+2022-04-20 17:02:25,498 :INFO :test_e2e :Text recived was matching
+2022-04-20 17:04:05,240 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 17:04:05,273 :INFO :test_e2e :iphone X
+2022-04-20 17:04:05,292 :INFO :test_e2e :Samsung Note 8
+2022-04-20 17:04:05,310 :INFO :test_e2e :Nokia Edge
+2022-04-20 17:04:05,329 :INFO :test_e2e :Blackberry
+2022-04-20 17:04:10,846 :INFO :test_e2e :Text recived was matching
+2022-04-20 17:05:28,468 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 17:05:28,500 :INFO :test_e2e :iphone X
+2022-04-20 17:05:28,519 :INFO :test_e2e :Samsung Note 8
+2022-04-20 17:05:28,537 :INFO :test_e2e :Nokia Edge
+2022-04-20 17:05:28,556 :INFO :test_e2e :Blackberry
+2022-04-20 17:05:34,065 :INFO :test_e2e :Text recived was matching
+2022-04-20 17:05:37,149 :INFO :test_fromSubmission :First Name:Anton
+2022-04-20 17:05:37,638 :INFO :test_fromSubmission :First Name:Yana
+2022-04-20 17:05:37,638 :INFO :test_fromSubmission :First Name:Yana
+2022-04-20 17:06:24,159 :INFO :test_fromSubmission :First Name:Anton
+2022-04-20 17:06:24,620 :INFO :test_fromSubmission :First Name:Yana
+2022-04-20 17:06:24,620 :INFO :test_fromSubmission :First Name:Yana
+2022-04-20 17:06:58,468 :INFO :test_fromSubmission :First Name:Anton
+2022-04-20 17:07:00,971 :INFO :test_fromSubmission :First Name:Yana
+2022-04-20 17:07:00,971 :INFO :test_fromSubmission :First Name:Yana
+2022-04-20 17:09:01,553 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 17:09:01,598 :INFO :test_e2e :iphone X
+2022-04-20 17:09:01,620 :INFO :test_e2e :Samsung Note 8
+2022-04-20 17:09:01,640 :INFO :test_e2e :Nokia Edge
+2022-04-20 17:09:01,663 :INFO :test_e2e :Blackberry
+2022-04-20 17:09:07,232 :INFO :test_e2e :Text recived was matching
+2022-04-20 17:26:09,064 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 17:26:09,097 :INFO :test_e2e :iphone X
+2022-04-20 17:26:09,117 :INFO :test_e2e :Samsung Note 8
+2022-04-20 17:26:09,135 :INFO :test_e2e :Nokia Edge
+2022-04-20 17:26:09,156 :INFO :test_e2e :Blackberry
+2022-04-20 17:26:14,707 :INFO :test_e2e :Text recived was matching
+2022-04-20 17:26:18,993 :INFO :test_fromSubmission :First NameAnton
+2022-04-20 17:26:21,597 :INFO :test_fromSubmission :First NameYana
+2022-04-20 17:26:21,597 :INFO :test_fromSubmission :First NameYana
+2022-04-20 18:08:03,528 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 18:08:03,561 :INFO :test_e2e :iphone X
+2022-04-20 18:08:03,580 :INFO :test_e2e :Samsung Note 8
+2022-04-20 18:08:03,599 :INFO :test_e2e :Nokia Edge
+2022-04-20 18:08:03,620 :INFO :test_e2e :Blackberry
+2022-04-20 18:09:36,620 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 18:09:36,653 :INFO :test_e2e :iphone X
+2022-04-20 18:09:36,672 :INFO :test_e2e :Samsung Note 8
+2022-04-20 18:09:36,691 :INFO :test_e2e :Nokia Edge
+2022-04-20 18:09:36,711 :INFO :test_e2e :Blackberry
+2022-04-20 18:09:45,497 :INFO :test_fromSubmission :First NameAnton
+2022-04-20 18:09:48,022 :INFO :test_fromSubmission :First NameYana
+2022-04-20 18:09:48,022 :INFO :test_fromSubmission :First NameYana
+2022-04-20 19:56:12,061 :INFO :test_fromSubmission :First NameAnton
+2022-04-20 19:56:12,287 :INFO :test_fromSubmission :First NameYana
+2022-04-20 19:56:12,287 :INFO :test_fromSubmission :First NameYana
+2022-04-20 20:03:47,019 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 20:03:47,052 :INFO :test_e2e :iphone X
+2022-04-20 20:03:47,071 :INFO :test_e2e :Samsung Note 8
+2022-04-20 20:03:47,090 :INFO :test_e2e :Nokia Edge
+2022-04-20 20:03:47,113 :INFO :test_e2e :Blackberry
+2022-04-20 20:03:56,627 :INFO :test_fromSubmission :First NameAnton
+2022-04-20 20:03:57,114 :INFO :test_fromSubmission :First NameYana
+2022-04-20 20:03:57,114 :INFO :test_fromSubmission :First NameYana
+2022-04-20 20:15:47,292 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 20:15:47,323 :INFO :test_e2e :iphone X
+2022-04-20 20:15:47,342 :INFO :test_e2e :Samsung Note 8
+2022-04-20 20:15:47,361 :INFO :test_e2e :Nokia Edge
+2022-04-20 20:15:47,380 :INFO :test_e2e :Blackberry
+2022-04-20 20:15:56,563 :INFO :test_fromSubmission :First NameAnton
+2022-04-20 20:15:56,799 :INFO :test_fromSubmission :First NameYana
+2022-04-20 20:15:56,799 :INFO :test_fromSubmission :First NameYana
+2022-04-20 20:16:39,574 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 20:16:39,610 :INFO :test_e2e :iphone X
+2022-04-20 20:16:39,631 :INFO :test_e2e :Samsung Note 8
+2022-04-20 20:16:39,652 :INFO :test_e2e :Nokia Edge
+2022-04-20 20:16:39,672 :INFO :test_e2e :Blackberry
+2022-04-20 20:16:48,819 :INFO :test_fromSubmission :First NameAnton
+2022-04-20 20:16:49,503 :INFO :test_fromSubmission :First NameYana
+2022-04-20 20:16:49,503 :INFO :test_fromSubmission :First NameYana
+2022-04-20 20:22:26,060 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 20:22:26,090 :INFO :test_e2e :iphone X
+2022-04-20 20:22:26,110 :INFO :test_e2e :Samsung Note 8
+2022-04-20 20:22:26,129 :INFO :test_e2e :Nokia Edge
+2022-04-20 20:22:26,150 :INFO :test_e2e :Blackberry
+2022-04-20 20:22:36,195 :INFO :test_fromSubmission :First NameAnton
+2022-04-20 20:22:36,455 :INFO :test_fromSubmission :First NameYana
+2022-04-20 20:22:36,455 :INFO :test_fromSubmission :First NameYana
+2022-04-20 20:55:17,406 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 20:55:17,425 :INFO :test_e2e :iphone X
+2022-04-20 20:55:17,432 :INFO :test_e2e :Samsung Note 8
+2022-04-20 20:55:17,441 :INFO :test_e2e :Nokia Edge
+2022-04-20 20:55:17,448 :INFO :test_e2e :Blackberry
+2022-04-20 20:55:34,741 :INFO :test_fromSubmission :First NameAnton
+2022-04-20 20:55:38,090 :INFO :test_fromSubmission :First NameYana
+2022-04-20 20:55:38,090 :INFO :test_fromSubmission :First NameYana
+2022-04-20 21:10:37,400 :INFO :test_e2e :Getting all the Product Titles
+2022-04-20 21:10:37,435 :INFO :test_e2e :iphone X
+2022-04-20 21:10:37,454 :INFO :test_e2e :Samsung Note 8
+2022-04-20 21:10:37,473 :INFO :test_e2e :Nokia Edge
+2022-04-20 21:10:37,492 :INFO :test_e2e :Blackberry
+2022-04-20 21:10:43,043 :INFO :test_e2e :Text recived was matching
+2022-04-20 21:10:46,744 :INFO :test_fromSubmission :First NameAnton
+2022-04-20 21:10:47,269 :INFO :test_fromSubmission :First NameYana
+2022-04-20 21:10:47,269 :INFO :test_fromSubmission :First NameYana
+2022-04-21 12:51:31,599 :INFO :test_fromSubmission :First NameAnton
